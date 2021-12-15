@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MViktorE
 - 👀 I’m interested in microcontroller programming and simple games. 
-- 🌱 I’m currently learning C, MATLAB, Python, LaTeX, JS, HTML and CSS.
+- 🌱 I’m currently learning C/C++, MATLAB, Python, LaTeX, JS, HTML and CSS.
 - 💞️ I’m looking to collaborate on interesting people.
 
 <!---
